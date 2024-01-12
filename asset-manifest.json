@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/extreme-weather/static/css/main.503d8b92.css",
+    "main.js": "/extreme-weather/static/js/main.0ff55430.js",
+    "static/js/787.8cf2f269.chunk.js": "/extreme-weather/static/js/787.8cf2f269.chunk.js",
+    "index.html": "/extreme-weather/index.html",
+    "main.503d8b92.css.map": "/extreme-weather/static/css/main.503d8b92.css.map",
+    "main.0ff55430.js.map": "/extreme-weather/static/js/main.0ff55430.js.map",
+    "787.8cf2f269.chunk.js.map": "/extreme-weather/static/js/787.8cf2f269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503d8b92.css",
+    "static/js/main.0ff55430.js"
+  ]
+}
